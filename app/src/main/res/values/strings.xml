@@ -1,0 +1,25 @@
+
+<resources>
+    <string name="app_name">ExpandableList</string>
+    <string name="user_name_1">Ned</string>
+    <string name="user_name_2">Maria</string>
+    <string name="user_name_3">Isra</string>
+    <string name="user_name_4">Ajay</string>
+    <string name="user_name_5">Arianna</string>
+    <string name="user_name_6">Kyle</string>
+    <string name="user_name_7">Alan</string>
+    <string name="user_name_8">Chema</string>
+    <string name="user_name_9">Clementine</string>
+    <string name="user_description_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="user_description_2">ivamus eget ultrices urna, non pharetra dui. Nunc a dolor pulvinar, </string>
+    <string name="user_description_3">molestie nibh a, condimentum nisl. Ut ac metus scelerisque, blandit libero at, bibendum lectus. </string>
+    <string name="user_description_4">Nullam vel sem convallis, sagittis velit vitae, mollis augue. Nulla consectetur risus libero, </string>
+    <string name="user_description_5">vel ullamcorper ipsum aliquet consequat. Pellentesque dapibus leo eget erat condimentum,</string>
+    <string name="user_description_6">quis sodales tortor tempus. Proin est sapien, interdum eu posuere eu, tempor et dolor. </string>
+    <string name="user_description_7">Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam tempor ornare urna sit amet eleifend. </string>
+    <string name="user_description_8">Aenean vehicula nibh eros, tristique vulputate enim luctus nec. Ut semper nunc arcu, in congue felis viverra sed. </string>
+    <string name="user_description_9">Maecenas eget elementum orci. Donec pretium eros a finibus porta. In a feugiat diam. Duis maximus bibendum sodales.</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">What the dog doing?</string>
+</resources>
