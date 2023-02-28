@@ -1,2 +1,2 @@
 # expandableListAndroidApp
-Shows buttons and an expandable using the new android jetpack compose feature. 
+Shows buttons and an expandable list using the new android jetpack compose feature. 
